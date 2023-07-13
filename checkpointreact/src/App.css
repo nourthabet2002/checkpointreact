@@ -1,0 +1,27 @@
+.navbar{
+  display: flex;
+  flex-direction: column;
+  background-color: aqua;
+  flex-direction: space-between;
+  gap:40px;
+  width:70%;
+  margin: 0 auto;
+  padding:10px;
+  
+}.welcome{
+  display:flex;
+  flex-direction: column;
+  width:40%;
+  height: 60%;
+  margin: 0 auto;
+}.footer {
+  text-align:center;
+  padding: 5px;
+  background-color: #abbaba;
+  color: #000;
+}.navbar ul{
+  display:none
+}.navbar img{
+  width:350px;
+  
+}
